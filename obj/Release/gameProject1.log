@@ -1,0 +1,51 @@
+﻿  Particle.cpp
+  ParticleEmitter.cpp
+  ParticleSystem.cpp
+  TransformObject.cpp
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gamedesignmidterm\src\particlesystem.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gamedesignmidterm\src\particlesystem.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gamedesignmidterm\src\particlesystem.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gamedesignmidterm\src\particlesystem.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gamedesignmidterm\src\particlesystem.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gamedesignmidterm\src\particlesystem.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gamedesignmidterm\src\particlesystem.cpp(80): warning C4018: '<': signed/unsigned mismatch
+  BaseObject.cpp
+  Emitter.cpp
+  main.cpp
+  ofApp.cpp
+  Sprite.cpp
+  SpriteSystem.cpp
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gameproject1\src\spritesystem.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gameproject1\src\spritesystem.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gameproject1\src\ofapp.cpp(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gameproject1\src\ofapp.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gameproject1\src\ofapp.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gameproject1\src\ofapp.cpp(207): warning C4018: '<': signed/unsigned mismatch
+  ofxBaseGui.cpp
+  ofxButton.cpp
+  ofxColorPicker.cpp
+  ofxGuiGroup.cpp
+  ofxInputField.cpp
+  ofxLabel.cpp
+  ofxPanel.cpp
+  ofxSlider.cpp
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(276): warning C4018: '<': signed/unsigned mismatch
+  c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(265): note: while compiling class template member function 'void ofxInputField<float>::moveCursor(int)'
+  c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(368): note: see reference to function template instantiation 'void ofxInputField<float>::moveCursor(int)' being compiled
+  c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(800): note: see reference to class template instantiation 'ofxInputField<float>' being compiled
+  ofxSliderGroup.cpp
+  ofxToggle.cpp
+     Creating library bin\gameProject1.lib and object bin\gameProject1.exp
+  Generating code
+  0 of 621 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  gameProject1.vcxproj -> C:\Users\asian\Desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\gameProject1\bin\gameProject1.exe
+  
+  	                   2	C:\Users\asian\Desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 5647872	C:\Users\asian\Desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\gameProject1\bin\FreeImage.dll
+  
+  	                   1	C:\Users\asian\Desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\Users\asian\Desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\gameProject1\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\asian\Desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\gameProject1\bin\fmodexL.dll

@@ -1,0 +1,27 @@
+﻿  ofApp.cpp
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gameproject1\src\ofapp.cpp(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gameproject1\src\ofapp.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gameproject1\src\ofapp.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\asian\desktop\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myapps\gameproject1\src\ofapp.cpp(207): warning C4018: '<': signed/unsigned mismatch
+ofxBaseGui.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Particle.obj
+ofxBaseGui.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Particle.obj
+ofxButton.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Particle.obj
+ofxButton.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Particle.obj
+ofxColorPicker.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Particle.obj
+ofxColorPicker.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Particle.obj
+ofxGuiGroup.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Particle.obj
+ofxGuiGroup.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Particle.obj
+ofxInputField.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Particle.obj
+ofxInputField.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Particle.obj
+ofxLabel.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Particle.obj
+ofxLabel.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Particle.obj
+ofxPanel.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Particle.obj
+ofxPanel.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Particle.obj
+ofxSlider.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Particle.obj
+ofxSlider.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Particle.obj
+ofxSliderGroup.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Particle.obj
+ofxSliderGroup.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Particle.obj
+ofxToggle.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Particle.obj
+ofxToggle.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Particle.obj
+     Creating library bin\gameProject1_debug.lib and object bin\gameProject1_debug.exp
+bin\gameProject1_debug.exe : fatal error LNK1319: 20 mismatches detected
